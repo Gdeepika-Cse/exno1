@@ -1,5 +1,7 @@
 # Exno:1
 Data Cleaning Process
+# NAME.- G.DEEPIKA
+# REG.NO.- 212224040060
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
